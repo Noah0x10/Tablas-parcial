@@ -1,0 +1,7 @@
+td,th {
+    font-family: 'Times New Roman';
+}
+td, table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
