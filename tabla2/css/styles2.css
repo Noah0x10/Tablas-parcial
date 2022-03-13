@@ -1,0 +1,12 @@
+table,thead,th,td {
+    border: 3px solid black; 
+    border-collapse: collapse;
+}
+th,td {
+    font-family: Arial;
+    text-align-last: center;
+}
+table {
+    width: 30%;
+}
+
